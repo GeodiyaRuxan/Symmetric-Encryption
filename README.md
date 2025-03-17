@@ -32,5 +32,5 @@ Make sure you have Python 3.x installed on your system. You will also need to in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/secure-cloud-cryptography.git
+   git clone https://github.com/GeodiyaRuxan/secure-cloud-cryptography.git
    cd secure-cloud-cryptography
