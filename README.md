@@ -6,10 +6,6 @@ This project demonstrates the use of cryptographic techniques, specifically symm
 
 - [Introduction](#introduction)
 - [Project Setup](#project-setup)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
