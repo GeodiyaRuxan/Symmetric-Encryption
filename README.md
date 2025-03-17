@@ -1,30 +1,36 @@
-# Symmetric-Encryption
-This project demonstrates the use of cryptographic techniques, specifically symmetric encryption, to securely store and retrieve sensitive data in cloud environments. It uses Python’s cryptography library to encrypt and decrypt a text file (secret.txt). The encrypted file can be stored securely in any environment, ensuring data confidentiality.
-# Cryptography in Secure Cloud Computing
+# Secure Cloud Cryptography
 
-This project demonstrates the use of cryptographic techniques, specifically symmetric encryption, to securely store and retrieve sensitive data in cloud environments. The goal is to showcase how encryption can ensure data confidentiality while working with cloud storage services.
+This project demonstrates the use of cryptographic techniques, specifically symmetric encryption, to securely store and retrieve sensitive data in cloud environments. The main objective of this project is to ensure data confidentiality through encryption before storing it in cloud systems.
 
-## Features
-- Symmetric encryption using the cryptography library in Python.
-- Ability to encrypt and decrypt text files securely.
-- Integration of a simple encryption algorithm to protect sensitive data.
-- Option to extend the project to cloud storage services (e.g., AWS S3, Google Cloud Storage) for secure file storage.
+## Table of Contents
 
-## Technologies Used
-- Python 3.x
-- `cryptography` library (for encryption)
-- Symmetric encryption algorithm (AES)
+- [Introduction](#introduction)
+- [Project Setup](#project-setup)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Getting Started
+## Introduction
+
+Cryptography plays a critical role in ensuring data security, particularly in cloud computing, where data is often stored and transmitted over the internet. This project uses the `cryptography` library in Python to demonstrate how symmetric encryption techniques can be applied to protect sensitive data before it's uploaded to cloud environments.
+
+The project implements:
+- **Symmetric encryption** to encrypt a text file.
+- **Decryption** functionality to retrieve the original data.
+
+## Project Setup
+
+Follow these steps to get the project up and running on your local machine:
 
 ### Prerequisites
 
-Make sure you have Python 3.x installed on your machine.
+Make sure you have Python 3.x installed on your system. You will also need to install the required Python libraries.
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository:
 
    ```bash
-git clone https://github.com/GeodiyaRuxan/secure-cloud-cryptography.git
-
+   git clone https://github.com/yourusername/secure-cloud-cryptography.git
+   cd secure-cloud-cryptography
